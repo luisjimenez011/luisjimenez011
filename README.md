@@ -1,16 +1,57 @@
-### About Me: 👋
+<div align="center">
+  <h1>Hola, soy Luis Jiménez 👋</h1>
+<p>Desarrollador Full Stack Junior | Enfocado en Node.js, React y Arquitectura Serverless</p>
+</div>
 
-Desarrollador Web junior 💻 con experiencia en desarrollo de aplicaciones 🚀 y soporte técnico 🛠️, formado en sistemas microinformáticos ⚙️ y Desarrollo Web 🌐.
-Destaco por mi constancia 💪, capacidad de resolución 🤔 y compromiso con la calidad del código ✨.
+---
 
-### Socials: 🔗
+### 💻 About Me: Desarrollador Full Stack Junior con Enfoque en Despliegue en la Nube
 
+Soy un **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** con experiencia práctica en la creación de **aplicaciones Full Stack (PERN Stack)** y una base sólida en **Sistemas Informáticos**.
 
-### Tech Stack: 🛠️
+Mi experiencia se centra en el desarrollo de aplicaciones web **escalables** y en la **puesta en producción** de sistemas reales.
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Badge"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"><img src="https://img.shields.io/badge/SQL-F7931E?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
+Me distingo por un enfoque profesional en:
+* **Despliegue y Arquitectura Cloud:** Experiencia práctica en **arquitectura Serverless (Vercel)**, gestionando el *split-deployment* (separación de Frontend y Backend) y la configuración de entornos en la nube.
+* **Resolución de Problemas de Conectividad:** Habilidad demostrada para diagnosticar y solucionar fallos críticos de red, como la depuración de **políticas CORS ** en entornos de producción (superando bloqueos de `Access-Control-Allow-Origin`).
+* **Integración de Servicios Avanzados:** Experiencia en el consumo y gestión de APIs de terceros, incluyendo **Inteligencia Artificial (Gemini)** y servicios de Base de Datos como **Supabase (PostgreSQL)**.
 
-### GitHub Stats: 📊
+Actualmente, busco consolidar mi carrera profesional aplicando mis conocimientos Full Stack y mi enfoque práctico en el desarrollo.
+---
 
-[![Luisjimenez011's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisjimenez011&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisjimenez011&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack & Herramientas
+
+Mi stack de desarrollo es robusto, cubriendo tanto bases de datos y APIs como interfaces dinámicas.
+
+| Categoría | Tecnologías | Foco de Experiencia Reciente |
+| :--- | :--- | :--- |
+| **Backend & Runtime** | PHP, **Laravel**, Java, **Spring Boot**, **Node.js**, **Express.js** | Creación de APIs RESTful, **Middleware de Seguridad (JWT)** y **Manejo de CORS**. |
+| **Frontend** | **JavaScript**, **React** (Vite), HTML5, CSS3, Bootstrap | Desarrollo de Single Page Applications (SPA), manejo de estado. |
+| **Bases de Datos** | SQL, MySQL, **PostgreSQL (Supabase)** | Diseño de esquemas, consultas eficientes, manejo de conexiones en la nube. |
+| **Despliegue & DevOps** | Git, GitHub, **Vercel** | Arquitectura Serverless, *split-deployment*, manejo de *cold starts*. |
+| **Servicios Externos** | **Gemini (Google AI)**, Axios | Integración de IA, llamadas HTTP seguras. |
+
+<br>
+
+---
+
+### 📊 GitHub Stats: Mi Contribución
+
+Mi actividad y compromiso con el código reflejado en mis estadísticas:
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=luisjimenez011&show_icons=true&theme=nord&count_private=true&hide=issues,prs" alt="Estadísticas de GitHub">
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjimenez011&layout=compact&theme=nord" alt="Lenguajes Principales">
+</div>
+
+---
+
+### 🔗 Socials: Contacto Profesional
+
+Conéctate conmigo para oportunidades de empleo, colaboración o discusiones técnicas.
+
+| Red Social | Enlace |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/luis-santiago-jiménez-fernández-382694265]) |
+| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisjimenezfernandez11@gmail.com]) |
